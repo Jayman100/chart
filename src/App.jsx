@@ -29,6 +29,7 @@ function App() {
   );
 }
 
+// Bar
 function Bar({ maxRevenue }) {
   return (
     <div className="bar">
